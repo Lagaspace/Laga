@@ -1,0 +1,17 @@
+﻿<Window x:Class="GenerateChromosomes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GenerateChromosomes"
+        mc:Ignorable="d"
+        Title="Char Chromosome Examples" Height="350" Width="340" ShowInTaskbar="False" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="label" Content="Chromosome Types: Random" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top"/>
+        <StackPanel Margin="10,30,10,10" Orientation="Horizontal" HorizontalAlignment="Center" Width="250">
+            <TextBox x:Name="txtBox"  Margin="0,10,10,0" Width="120" TextWrapping="Wrap" Text="char binary:" ScrollViewer.VerticalScrollBarVisibility="Auto" FontSize="10"/>
+            <TextBox x:Name="txtBox2"  Margin="0,10,10,0" Width="120" TextWrapping="Wrap" Text="char random: 65 - 90" ScrollViewer.VerticalScrollBarVisibility="Auto" FontSize="10"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

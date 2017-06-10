@@ -1,0 +1,16 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\bin\Debug\GenerateChromosomes.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\bin\Debug\GenerateChromosomes.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\bin\Debug\GenerateChromosomes.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\App.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes_MarkupCompile.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes_MarkupCompile.lref
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\MainWindow.baml
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.g.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\obj\Debug\GenerateChromosomes.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\bin\Debug\Laga.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\GenerateChromosomes\bin\Debug\Laga.pdb
