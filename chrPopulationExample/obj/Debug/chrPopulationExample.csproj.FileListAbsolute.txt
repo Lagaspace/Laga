@@ -1,0 +1,17 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\dblPopulationExample.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\dblPopulationExample.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\dblPopulationExample.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\Laga.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\Laga.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\bin\Debug\Laga.xml
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\chrPopulationExample.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\App.g.cs
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample_MarkupCompile.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample_MarkupCompile.lref
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\MainWindow.baml
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample.g.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample.Properties.Resources.resources
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\chrPopulationExample.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample.exe
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\laga\chrPopulationExample\obj\Debug\dblPopulationExample.pdb
