@@ -1,0 +1,9 @@
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\mathFunctionOptimization.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\mathFunctionOptimization.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\mathFunctionOptimization.pdb
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\Laga.dll
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\Laga.pdb
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\bin\Debug\Laga.xml
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.exe
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.pdb
