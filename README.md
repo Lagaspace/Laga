@@ -1,6 +1,5 @@
 # Laga framework
-Laga framework is a .Net library to design and creates Genetic Algorithms.
-Here you will find the latest compiled version of Laga and previous versions as well.
-Download the whole folder, with the DLL and XML file (for documentation).
-for deep explanation about classes go to the Wiki folder.
-see the examples as well.
+In this branch you will find the an old laga version for processing. A processing plugin.
+I used sometimes as a reference.
+this version is stable and works ok. I moved laga to C# due to my daily job.
+I hope this version may helps someons.
