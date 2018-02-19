@@ -7,3 +7,4 @@ C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimizat
 C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.csprojResolveAssemblyReference.cache
 C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.exe
 C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.pdb
+C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\mathFunctionOptimization\obj\Debug\mathFunctionOptimization.csproj.CoreCompileInputs.cache

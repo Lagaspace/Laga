@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 using Laga.GeneticAlgorithm;
 
 namespace mathFunctionOptimization
@@ -10,7 +7,7 @@ namespace mathFunctionOptimization
     class Program
     {
         // fields... //
-        private static int popSize = 10; //population size...
+        private static int popSize = 20; //population size...
         private static int chromeSize = 15; //chromosome size....
         private static int[] result; //to store the results of the evaluation.
         private static char[][] charPop;
@@ -33,7 +30,11 @@ namespace mathFunctionOptimization
             char[][] sonPop;
             char[][] mutPop;
 
+            int c = 1;
+
             //GA loop
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
             do
             {
                 for (int i = 0; i < popSize; i++)
@@ -42,14 +43,19 @@ namespace mathFunctionOptimization
                 sr.BidirectionalBubbleSort(charPop, result, false);
                 eval = result[0];
 
-                Console.WriteLine(eval.ToString());
+                int[] arrD = TransformData(charPop[0]);
+                string message = String.Format("iter:{0} -> 2*{1} + 3*{2} + 4*{3} = {4} // target: 60", c, arrD[0], arrD[1], arrD[2], eval);
+                Console.WriteLine(message);
+                c++;
 
                 selChro = roulette.RouletteWheel(charPop, result, popSize);
                 sonPop = cross.SinglePointCrossover(selChro, 0.2f, 7);
                 mutPop = mut.BinaryCharMutation(charPop, 0.02f);
                 charPop = CreateTheNewPopulation(selChro, mutPop);
-
+                
             } while (eval != 0);
+            sw.Stop();
+            Console.WriteLine("Elapsed={0}", sw.Elapsed);
             Console.ReadLine();
         }
 
@@ -70,6 +76,13 @@ namespace mathFunctionOptimization
 
         private static int Fitness(char[] arrChr)
         {
+            int[] arrD = TransformData(arrChr);
+            int res = 2 * arrD[0] + 3 * arrD[1] + 4 * arrD[2];
+            return Math.Abs(res - 60); //we want to go closer to 0 here.
+        }
+
+        private static int[] TransformData(char[] arrChr)
+        {
             char[] firstNum = LagaTools.ExtractDNA(arrChr, 0, 5);
             char[] secondNum = LagaTools.ExtractDNA(arrChr, 5, 5);
             char[] thirdNum = LagaTools.ExtractDNA(arrChr, 10, 5);
@@ -78,8 +91,7 @@ namespace mathFunctionOptimization
             int b = LagaTools.BinaryChromosomeToInteger(secondNum);
             int c = LagaTools.BinaryChromosomeToInteger(thirdNum);
 
-            int res = 2 * a + 3 * b + 4 * c;
-            return Math.Abs(res - 60); //we want to go closer to 0 here.
+            return new int[] {a, b, c};
         }
 
     }
