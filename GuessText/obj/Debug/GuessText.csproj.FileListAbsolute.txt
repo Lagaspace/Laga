@@ -1,9 +1,0 @@
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\GuessText.exe.config
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\GuessText.exe
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\GuessText.pdb
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\Laga.dll
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\Laga.pdb
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\bin\Debug\Laga.xml
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\obj\Debug\GuessText.csprojResolveAssemblyReference.cache
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\obj\Debug\GuessText.exe
-C:\Users\Carlos\Documents\Visual Studio 2017\Projects\laga\GuessText\obj\Debug\GuessText.pdb
