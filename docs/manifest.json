@@ -261,10 +261,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/crossover.html",
-          "hash": "yAQ8JrZWSRtau+BaGki8ZA=="
+          "hash": "AbTyiNuiT25ckktWwmRSjQ=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -285,10 +285,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/gas.html",
-          "hash": "rRJXQmchNKBuLcHznEM8oQ=="
+          "hash": "0GbjAwbbZrG1iC3HOshgNw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -297,10 +297,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/genes.html",
-          "hash": "Mv70X+NhD9CrhFPXEmpNYQ=="
+          "hash": "v69sxvfxxkFGVel7BDvggA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -309,10 +309,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "kQVJrxRQcTUmXTzc9dKp9g=="
+          "hash": "nNJdYBt7crnJ4JKpmZRCqg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -321,10 +321,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/mutation.html",
-          "hash": "gOO0js2JgpbJUo/hKen3jQ=="
+          "hash": "LN3mC/r/EX3IRCrRKY6jeA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -333,10 +333,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/natselection.html",
-          "hash": "8GNApySWgUeE5XmITaGD3A=="
+          "hash": "0xnwWQaTc/ZmS3n68EZECA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -556,10 +556,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "JdgcKRzaF0LG+SkeCJX6jg=="
+          "hash": "xmfZPskYDEVYHPjizvSN7w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -580,10 +580,10 @@
       "output": {
         ".html": {
           "relative_path": "workshop/equalityproblem.html",
-          "hash": "aNhoQfC5AcYuYo3bJMxLqA=="
+          "hash": "cAvOB9DjQtVeLeyvSr/Uwg=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -627,24 +627,24 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 19,
+          "skipped_file_count": 19
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 12,
+          "skipped_file_count": 5
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 12,
-          "skipped_file_count": 11
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 19,
-          "skipped_file_count": 19
         }
       }
     },
