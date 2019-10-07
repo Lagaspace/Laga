@@ -479,6 +479,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/Math2-spacesearch.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/Math2-spacesearch.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/chromosome.jpg",
       "output": {
         "resource": {
@@ -635,14 +646,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "workshop/Math2.md",
+      "output": {
+        ".html": {
+          "relative_path": "workshop/Math2.html",
+          "hash": "tD+we/2wjxJmxCUOjWi0wQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "workshop/PiscoSour.md",
       "output": {
         ".html": {
           "relative_path": "workshop/PiscoSour.html",
-          "hash": "WvNNSWAfG22OQeoyn/nNuA=="
+          "hash": "BVb5ILKG/lQy4p7oY1Li2w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -675,7 +698,7 @@
       "output": {
         ".html": {
           "relative_path": "workshop/toc.html",
-          "hash": "VyE1uCl6tciZugeiP6/dFw=="
+          "hash": "yjr4VQPSTd4ERlCmViGSXA=="
         }
       },
       "is_incremental": false,
@@ -705,17 +728,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 13,
-          "skipped_file_count": 12
-        },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 23,
           "skipped_file_count": 23
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 14,
+          "skipped_file_count": 13
         }
       }
     },
