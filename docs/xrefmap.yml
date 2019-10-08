@@ -7,231 +7,301 @@ references:
   commentId: N:Laga.GeneticAlgorithm
   fullName: Laga.GeneticAlgorithm
   nameWithType: Laga.GeneticAlgorithm
-- uid: Laga.GeneticAlgorithm.Chromosome
-  name: Chromosome
-  href: api/Laga.GeneticAlgorithm.Chromosome.html
-  commentId: T:Laga.GeneticAlgorithm.Chromosome
-  fullName: Laga.GeneticAlgorithm.Chromosome
-  nameWithType: Chromosome
-- uid: Laga.GeneticAlgorithm.Chromosome.#ctor
+- uid: Laga.GeneticAlgorithm.Chromosome`1
+  name: Chromosome<T>
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html
+  commentId: T:Laga.GeneticAlgorithm.Chromosome`1
+  name.vb: Chromosome(Of T)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T)
+  nameWithType: Chromosome<T>
+  nameWithType.vb: Chromosome(Of T)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.#ctor
   name: Chromosome()
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome__ctor
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.#ctor
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chromosome()
-  nameWithType: Chromosome.Chromosome()
-- uid: Laga.GeneticAlgorithm.Chromosome.#ctor(System.Int32)
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1__ctor
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.#ctor
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chromosome()
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chromosome()
+  nameWithType: Chromosome<T>.Chromosome()
+  nameWithType.vb: Chromosome(Of T).Chromosome()
+- uid: Laga.GeneticAlgorithm.Chromosome`1.#ctor(System.Collections.Generic.List{`0})
+  name: Chromosome(List<T>)
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1__ctor_System_Collections_Generic_List__0__
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.#ctor(System.Collections.Generic.List{`0})
+  name.vb: Chromosome(List(Of T))
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chromosome(System.Collections.Generic.List<T>)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chromosome(System.Collections.Generic.List(Of T))
+  nameWithType: Chromosome<T>.Chromosome(List<T>)
+  nameWithType.vb: Chromosome(Of T).Chromosome(List(Of T))
+- uid: Laga.GeneticAlgorithm.Chromosome`1.#ctor(System.Int32)
   name: Chromosome(Int32)
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome__ctor_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.#ctor(System.Int32)
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chromosome(System.Int32)
-  nameWithType: Chromosome.Chromosome(Int32)
-- uid: Laga.GeneticAlgorithm.Chromosome.#ctor(System.Int32,System.Int32,System.Int32)
-  name: Chromosome(Int32, Int32, Int32)
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome__ctor_System_Int32_System_Int32_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.#ctor(System.Int32,System.Int32,System.Int32)
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chromosome(System.Int32, System.Int32, System.Int32)
-  nameWithType: Chromosome.Chromosome(Int32, Int32, Int32)
-- uid: Laga.GeneticAlgorithm.Chromosome.#ctor*
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1__ctor_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.#ctor(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chromosome(System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chromosome(System.Int32)
+  nameWithType: Chromosome<T>.Chromosome(Int32)
+  nameWithType.vb: Chromosome(Of T).Chromosome(Int32)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.#ctor*
   name: Chromosome
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome__ctor_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.#ctor
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1__ctor_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.#ctor
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chromosome
-  nameWithType: Chromosome.Chromosome
-- uid: Laga.GeneticAlgorithm.Chromosome.Add(System.Char)
-  name: Add(Char)
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Add_System_Char_
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.Add(System.Char)
-  fullName: Laga.GeneticAlgorithm.Chromosome.Add(System.Char)
-  nameWithType: Chromosome.Add(Char)
-- uid: Laga.GeneticAlgorithm.Chromosome.Add*
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chromosome
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chromosome
+  nameWithType: Chromosome<T>.Chromosome
+  nameWithType.vb: Chromosome(Of T).Chromosome
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Add(`0)
+  name: Add(T)
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Add__0_
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.Add(`0)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Add(T)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Add(T)
+  nameWithType: Chromosome<T>.Add(T)
+  nameWithType.vb: Chromosome(Of T).Add(T)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Add*
   name: Add
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Add_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.Add
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Add_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.Add
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.Add
-  nameWithType: Chromosome.Add
-- uid: Laga.GeneticAlgorithm.Chromosome.Chrom2String
-  name: Chrom2String()
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Chrom2String
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.Chrom2String
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chrom2String()
-  nameWithType: Chromosome.Chrom2String()
-- uid: Laga.GeneticAlgorithm.Chromosome.Chrom2String*
-  name: Chrom2String
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Chrom2String_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.Chrom2String
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Add
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Add
+  nameWithType: Chromosome<T>.Add
+  nameWithType.vb: Chromosome(Of T).Add
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Chr2Str(System.String)
+  name: Chr2Str(String)
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Chr2Str_System_String_
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.Chr2Str(System.String)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chr2Str(System.String)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chr2Str(System.String)
+  nameWithType: Chromosome<T>.Chr2Str(String)
+  nameWithType.vb: Chromosome(Of T).Chr2Str(String)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Chr2Str*
+  name: Chr2Str
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Chr2Str_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.Chr2Str
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.Chrom2String
-  nameWithType: Chromosome.Chrom2String
-- uid: Laga.GeneticAlgorithm.Chromosome.chromosome
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Chr2Str
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Chr2Str
+  nameWithType: Chromosome<T>.Chr2Str
+  nameWithType.vb: Chromosome(Of T).Chr2Str
+- uid: Laga.GeneticAlgorithm.Chromosome`1.chromosome
   name: chromosome
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_chromosome
-  commentId: P:Laga.GeneticAlgorithm.Chromosome.chromosome
-  fullName: Laga.GeneticAlgorithm.Chromosome.chromosome
-  nameWithType: Chromosome.chromosome
-- uid: Laga.GeneticAlgorithm.Chromosome.chromosome*
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_chromosome
+  commentId: P:Laga.GeneticAlgorithm.Chromosome`1.chromosome
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.chromosome
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).chromosome
+  nameWithType: Chromosome<T>.chromosome
+  nameWithType.vb: Chromosome(Of T).chromosome
+- uid: Laga.GeneticAlgorithm.Chromosome`1.chromosome*
   name: chromosome
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_chromosome_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.chromosome
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_chromosome_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.chromosome
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.chromosome
-  nameWithType: Chromosome.chromosome
-- uid: Laga.GeneticAlgorithm.Chromosome.Count
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.chromosome
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).chromosome
+  nameWithType: Chromosome<T>.chromosome
+  nameWithType.vb: Chromosome(Of T).chromosome
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Count
   name: Count
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Count
-  commentId: P:Laga.GeneticAlgorithm.Chromosome.Count
-  fullName: Laga.GeneticAlgorithm.Chromosome.Count
-  nameWithType: Chromosome.Count
-- uid: Laga.GeneticAlgorithm.Chromosome.Count*
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Count
+  commentId: P:Laga.GeneticAlgorithm.Chromosome`1.Count
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Count
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Count
+  nameWithType: Chromosome<T>.Count
+  nameWithType.vb: Chromosome(Of T).Count
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Count*
   name: Count
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Count_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.Count
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Count_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.Count
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.Count
-  nameWithType: Chromosome.Count
-- uid: Laga.GeneticAlgorithm.Chromosome.Fitness
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Count
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Count
+  nameWithType: Chromosome<T>.Count
+  nameWithType.vb: Chromosome(Of T).Count
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Fitness
   name: Fitness
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Fitness
-  commentId: P:Laga.GeneticAlgorithm.Chromosome.Fitness
-  fullName: Laga.GeneticAlgorithm.Chromosome.Fitness
-  nameWithType: Chromosome.Fitness
-- uid: Laga.GeneticAlgorithm.Chromosome.Fitness*
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Fitness
+  commentId: P:Laga.GeneticAlgorithm.Chromosome`1.Fitness
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Fitness
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Fitness
+  nameWithType: Chromosome<T>.Fitness
+  nameWithType.vb: Chromosome(Of T).Fitness
+- uid: Laga.GeneticAlgorithm.Chromosome`1.Fitness*
   name: Fitness
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_Fitness_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.Fitness
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_Fitness_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.Fitness
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.Fitness
-  nameWithType: Chromosome.Fitness
-- uid: Laga.GeneticAlgorithm.Chromosome.GetDNA(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.Fitness
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).Fitness
+  nameWithType: Chromosome<T>.Fitness
+  nameWithType.vb: Chromosome(Of T).Fitness
+- uid: Laga.GeneticAlgorithm.Chromosome`1.GetDNA(System.Int32)
   name: GetDNA(Int32)
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_GetDNA_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.GetDNA(System.Int32)
-  fullName: Laga.GeneticAlgorithm.Chromosome.GetDNA(System.Int32)
-  nameWithType: Chromosome.GetDNA(Int32)
-- uid: Laga.GeneticAlgorithm.Chromosome.GetDNA*
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_GetDNA_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.GetDNA(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.GetDNA(System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).GetDNA(System.Int32)
+  nameWithType: Chromosome<T>.GetDNA(Int32)
+  nameWithType.vb: Chromosome(Of T).GetDNA(Int32)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.GetDNA*
   name: GetDNA
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_GetDNA_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.GetDNA
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_GetDNA_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.GetDNA
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.GetDNA
-  nameWithType: Chromosome.GetDNA
-- uid: Laga.GeneticAlgorithm.Chromosome.InsertDNA(System.Int32,System.Char)
-  name: InsertDNA(Int32, Char)
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_InsertDNA_System_Int32_System_Char_
-  commentId: M:Laga.GeneticAlgorithm.Chromosome.InsertDNA(System.Int32,System.Char)
-  fullName: Laga.GeneticAlgorithm.Chromosome.InsertDNA(System.Int32, System.Char)
-  nameWithType: Chromosome.InsertDNA(Int32, Char)
-- uid: Laga.GeneticAlgorithm.Chromosome.InsertDNA*
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.GetDNA
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).GetDNA
+  nameWithType: Chromosome<T>.GetDNA
+  nameWithType.vb: Chromosome(Of T).GetDNA
+- uid: Laga.GeneticAlgorithm.Chromosome`1.InsertDNA(System.Int32,`0)
+  name: InsertDNA(Int32, T)
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_InsertDNA_System_Int32__0_
+  commentId: M:Laga.GeneticAlgorithm.Chromosome`1.InsertDNA(System.Int32,`0)
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.InsertDNA(System.Int32, T)
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).InsertDNA(System.Int32, T)
+  nameWithType: Chromosome<T>.InsertDNA(Int32, T)
+  nameWithType.vb: Chromosome(Of T).InsertDNA(Int32, T)
+- uid: Laga.GeneticAlgorithm.Chromosome`1.InsertDNA*
   name: InsertDNA
-  href: api/Laga.GeneticAlgorithm.Chromosome.html#Laga_GeneticAlgorithm_Chromosome_InsertDNA_
-  commentId: Overload:Laga.GeneticAlgorithm.Chromosome.InsertDNA
+  href: api/Laga.GeneticAlgorithm.Chromosome-1.html#Laga_GeneticAlgorithm_Chromosome_1_InsertDNA_
+  commentId: Overload:Laga.GeneticAlgorithm.Chromosome`1.InsertDNA
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Chromosome.InsertDNA
-  nameWithType: Chromosome.InsertDNA
-- uid: Laga.GeneticAlgorithm.Crossover
-  name: Crossover
-  href: api/Laga.GeneticAlgorithm.Crossover.html
-  commentId: T:Laga.GeneticAlgorithm.Crossover
-  fullName: Laga.GeneticAlgorithm.Crossover
-  nameWithType: Crossover
-- uid: Laga.GeneticAlgorithm.Crossover.#ctor
+  fullName: Laga.GeneticAlgorithm.Chromosome<T>.InsertDNA
+  fullName.vb: Laga.GeneticAlgorithm.Chromosome(Of T).InsertDNA
+  nameWithType: Chromosome<T>.InsertDNA
+  nameWithType.vb: Chromosome(Of T).InsertDNA
+- uid: Laga.GeneticAlgorithm.Crossover`1
+  name: Crossover<T>
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html
+  commentId: T:Laga.GeneticAlgorithm.Crossover`1
+  name.vb: Crossover(Of T)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T)
+  nameWithType: Crossover<T>
+  nameWithType.vb: Crossover(Of T)
+- uid: Laga.GeneticAlgorithm.Crossover`1.#ctor
   name: Crossover()
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover__ctor
-  commentId: M:Laga.GeneticAlgorithm.Crossover.#ctor
-  fullName: Laga.GeneticAlgorithm.Crossover.Crossover()
-  nameWithType: Crossover.Crossover()
-- uid: Laga.GeneticAlgorithm.Crossover.#ctor*
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1__ctor
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.#ctor
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.Crossover()
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).Crossover()
+  nameWithType: Crossover<T>.Crossover()
+  nameWithType.vb: Crossover(Of T).Crossover()
+- uid: Laga.GeneticAlgorithm.Crossover`1.#ctor*
   name: Crossover
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover__ctor_
-  commentId: Overload:Laga.GeneticAlgorithm.Crossover.#ctor
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1__ctor_
+  commentId: Overload:Laga.GeneticAlgorithm.Crossover`1.#ctor
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Crossover.Crossover
-  nameWithType: Crossover.Crossover
-- uid: Laga.GeneticAlgorithm.Crossover.IndexParent
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.Crossover
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).Crossover
+  nameWithType: Crossover<T>.Crossover
+  nameWithType.vb: Crossover(Of T).Crossover
+- uid: Laga.GeneticAlgorithm.Crossover`1.IndexParent
   name: IndexParent
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_IndexParent
-  commentId: P:Laga.GeneticAlgorithm.Crossover.IndexParent
-  fullName: Laga.GeneticAlgorithm.Crossover.IndexParent
-  nameWithType: Crossover.IndexParent
-- uid: Laga.GeneticAlgorithm.Crossover.IndexParent*
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_IndexParent
+  commentId: P:Laga.GeneticAlgorithm.Crossover`1.IndexParent
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.IndexParent
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).IndexParent
+  nameWithType: Crossover<T>.IndexParent
+  nameWithType.vb: Crossover(Of T).IndexParent
+- uid: Laga.GeneticAlgorithm.Crossover`1.IndexParent*
   name: IndexParent
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_IndexParent_
-  commentId: Overload:Laga.GeneticAlgorithm.Crossover.IndexParent
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_IndexParent_
+  commentId: Overload:Laga.GeneticAlgorithm.Crossover`1.IndexParent
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Crossover.IndexParent
-  nameWithType: Crossover.IndexParent
-- uid: Laga.GeneticAlgorithm.Crossover.RandomPointCrossover(Laga.GeneticAlgorithm.Population,System.Int32)
-  name: RandomPointCrossover(Population, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_RandomPointCrossover_Laga_GeneticAlgorithm_Population_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.RandomPointCrossover(Laga.GeneticAlgorithm.Population,System.Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.RandomPointCrossover(Laga.GeneticAlgorithm.Population, System.Int32)
-  nameWithType: Crossover.RandomPointCrossover(Population, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.RandomPointCrossover*
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.IndexParent
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).IndexParent
+  nameWithType: Crossover<T>.IndexParent
+  nameWithType.vb: Crossover(Of T).IndexParent
+- uid: Laga.GeneticAlgorithm.Crossover`1.RandomPointCrossover(Laga.GeneticAlgorithm.Population{`0},System.Int32)
+  name: RandomPointCrossover(Population<T>, Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_RandomPointCrossover_Laga_GeneticAlgorithm_Population__0__System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.RandomPointCrossover(Laga.GeneticAlgorithm.Population{`0},System.Int32)
+  name.vb: RandomPointCrossover(Population(Of T), Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.RandomPointCrossover(Laga.GeneticAlgorithm.Population<T>, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).RandomPointCrossover(Laga.GeneticAlgorithm.Population(Of T), System.Int32)
+  nameWithType: Crossover<T>.RandomPointCrossover(Population<T>, Int32)
+  nameWithType.vb: Crossover(Of T).RandomPointCrossover(Population(Of T), Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.RandomPointCrossover*
   name: RandomPointCrossover
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_RandomPointCrossover_
-  commentId: Overload:Laga.GeneticAlgorithm.Crossover.RandomPointCrossover
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_RandomPointCrossover_
+  commentId: Overload:Laga.GeneticAlgorithm.Crossover`1.RandomPointCrossover
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Crossover.RandomPointCrossover
-  nameWithType: Crossover.RandomPointCrossover
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome,Laga.GeneticAlgorithm.Chromosome,System.Int32)
-  name: SinglePointCrossover(Chromosome, Chromosome, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_Laga_GeneticAlgorithm_Chromosome_Laga_GeneticAlgorithm_Chromosome_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome,Laga.GeneticAlgorithm.Chromosome,System.Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome, Laga.GeneticAlgorithm.Chromosome, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Chromosome, Chromosome, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Char[][],System.Single,System.Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.RandomPointCrossover
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).RandomPointCrossover
+  nameWithType: Crossover<T>.RandomPointCrossover
+  nameWithType.vb: Crossover(Of T).RandomPointCrossover
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome{`0},Laga.GeneticAlgorithm.Chromosome{`0},System.Int32)
+  name: SinglePointCrossover(Chromosome<T>, Chromosome<T>, Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_Laga_GeneticAlgorithm_Chromosome__0__Laga_GeneticAlgorithm_Chromosome__0__System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome{`0},Laga.GeneticAlgorithm.Chromosome{`0},System.Int32)
+  name.vb: SinglePointCrossover(Chromosome(Of T), Chromosome(Of T), Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome<T>, Laga.GeneticAlgorithm.Chromosome<T>, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(Laga.GeneticAlgorithm.Chromosome(Of T), Laga.GeneticAlgorithm.Chromosome(Of T), System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Chromosome<T>, Chromosome<T>, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Chromosome(Of T), Chromosome(Of T), Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(Laga.GeneticAlgorithm.Population{`0},System.Int32,System.Int32)
+  name: SinglePointCrossover(Population<T>, Int32, Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_Laga_GeneticAlgorithm_Population__0__System_Int32_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(Laga.GeneticAlgorithm.Population{`0},System.Int32,System.Int32)
+  name.vb: SinglePointCrossover(Population(Of T), Int32, Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(Laga.GeneticAlgorithm.Population<T>, System.Int32, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(Laga.GeneticAlgorithm.Population(Of T), System.Int32, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Population<T>, Int32, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Population(Of T), Int32, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Char[][],System.Single,System.Int32)
   name: SinglePointCrossover(Char[][], Single, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_System_Char_____System_Single_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Char[][],System.Single,System.Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_System_Char_____System_Single_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Char[][],System.Single,System.Int32)
   name.vb: SinglePointCrossover(Char()(), Single, Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Char[][], System.Single, System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Char()(), System.Single, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Char[][], Single, Int32)
-  nameWithType.vb: Crossover.SinglePointCrossover(Char()(), Single, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Double[][],System.Single,System.Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(System.Char[][], System.Single, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(System.Char()(), System.Single, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Char[][], Single, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Char()(), Single, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Double[][],System.Single,System.Int32)
   name: SinglePointCrossover(Double[][], Single, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_System_Double_____System_Single_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Double[][],System.Single,System.Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_System_Double_____System_Single_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Double[][],System.Single,System.Int32)
   name.vb: SinglePointCrossover(Double()(), Single, Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Double[][], System.Single, System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Double()(), System.Single, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Double[][], Single, Int32)
-  nameWithType.vb: Crossover.SinglePointCrossover(Double()(), Single, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Int32[][],System.Single,System.Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(System.Double[][], System.Single, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(System.Double()(), System.Single, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Double[][], Single, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Double()(), Single, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Int32[][],System.Single,System.Int32)
   name: SinglePointCrossover(Int32[][], Single, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_System_Int32_____System_Single_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Int32[][],System.Single,System.Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_System_Int32_____System_Single_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Int32[][],System.Single,System.Int32)
   name.vb: SinglePointCrossover(Int32()(), Single, Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Int32[][], System.Single, System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Int32()(), System.Single, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Int32[][], Single, Int32)
-  nameWithType.vb: Crossover.SinglePointCrossover(Int32()(), Single, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Object[][],System.Single,System.Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(System.Int32[][], System.Single, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(System.Int32()(), System.Single, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Int32[][], Single, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Int32()(), Single, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Object[][],System.Single,System.Int32)
   name: SinglePointCrossover(Object[][], Single, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_System_Object_____System_Single_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Object[][],System.Single,System.Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_System_Object_____System_Single_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Object[][],System.Single,System.Int32)
   name.vb: SinglePointCrossover(Object()(), Single, Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Object[][], System.Single, System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Object()(), System.Single, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Object[][], Single, Int32)
-  nameWithType.vb: Crossover.SinglePointCrossover(Object()(), Single, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Single[][],System.Single,System.Int32)
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(System.Object[][], System.Single, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(System.Object()(), System.Single, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Object[][], Single, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Object()(), Single, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Single[][],System.Single,System.Int32)
   name: SinglePointCrossover(Single[][], Single, Int32)
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_System_Single_____System_Single_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Single[][],System.Single,System.Int32)
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_System_Single_____System_Single_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover(System.Single[][],System.Single,System.Int32)
   name.vb: SinglePointCrossover(Single()(), Single, Int32)
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Single[][], System.Single, System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover(System.Single()(), System.Single, System.Int32)
-  nameWithType: Crossover.SinglePointCrossover(Single[][], Single, Int32)
-  nameWithType.vb: Crossover.SinglePointCrossover(Single()(), Single, Int32)
-- uid: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover*
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover(System.Single[][], System.Single, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover(System.Single()(), System.Single, System.Int32)
+  nameWithType: Crossover<T>.SinglePointCrossover(Single[][], Single, Int32)
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover(Single()(), Single, Int32)
+- uid: Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover*
   name: SinglePointCrossover
-  href: api/Laga.GeneticAlgorithm.Crossover.html#Laga_GeneticAlgorithm_Crossover_SinglePointCrossover_
-  commentId: Overload:Laga.GeneticAlgorithm.Crossover.SinglePointCrossover
+  href: api/Laga.GeneticAlgorithm.Crossover-1.html#Laga_GeneticAlgorithm_Crossover_1_SinglePointCrossover_
+  commentId: Overload:Laga.GeneticAlgorithm.Crossover`1.SinglePointCrossover
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Crossover.SinglePointCrossover
-  nameWithType: Crossover.SinglePointCrossover
+  fullName: Laga.GeneticAlgorithm.Crossover<T>.SinglePointCrossover
+  fullName.vb: Laga.GeneticAlgorithm.Crossover(Of T).SinglePointCrossover
+  nameWithType: Crossover<T>.SinglePointCrossover
+  nameWithType.vb: Crossover(Of T).SinglePointCrossover
 - uid: Laga.GeneticAlgorithm.GenrChromosome
   name: GenrChromosome
   href: api/Laga.GeneticAlgorithm.GenrChromosome.html
@@ -479,55 +549,6 @@ references:
   isSpec: "True"
   fullName: Laga.GeneticAlgorithm.GenrPopulation.SizePop
   nameWithType: GenrPopulation.SizePop
-- uid: Laga.GeneticAlgorithm.IChromosome`1
-  name: IChromosome<T>
-  href: api/Laga.GeneticAlgorithm.IChromosome-1.html
-  commentId: T:Laga.GeneticAlgorithm.IChromosome`1
-  name.vb: IChromosome(Of T)
-  fullName: Laga.GeneticAlgorithm.IChromosome<T>
-  fullName.vb: Laga.GeneticAlgorithm.IChromosome(Of T)
-  nameWithType: IChromosome<T>
-  nameWithType.vb: IChromosome(Of T)
-- uid: Laga.GeneticAlgorithm.IChromosome`1.Add(`0)
-  name: Add(T)
-  href: api/Laga.GeneticAlgorithm.IChromosome-1.html#Laga_GeneticAlgorithm_IChromosome_1_Add__0_
-  commentId: M:Laga.GeneticAlgorithm.IChromosome`1.Add(`0)
-  fullName: Laga.GeneticAlgorithm.IChromosome<T>.Add(T)
-  fullName.vb: Laga.GeneticAlgorithm.IChromosome(Of T).Add(T)
-  nameWithType: IChromosome<T>.Add(T)
-  nameWithType.vb: IChromosome(Of T).Add(T)
-- uid: Laga.GeneticAlgorithm.IChromosome`1.Add*
-  name: Add
-  href: api/Laga.GeneticAlgorithm.IChromosome-1.html#Laga_GeneticAlgorithm_IChromosome_1_Add_
-  commentId: Overload:Laga.GeneticAlgorithm.IChromosome`1.Add
-  isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.IChromosome<T>.Add
-  fullName.vb: Laga.GeneticAlgorithm.IChromosome(Of T).Add
-  nameWithType: IChromosome<T>.Add
-  nameWithType.vb: IChromosome(Of T).Add
-- uid: Laga.GeneticAlgorithm.IChromosome`1.Count
-  name: Count
-  href: api/Laga.GeneticAlgorithm.IChromosome-1.html#Laga_GeneticAlgorithm_IChromosome_1_Count
-  commentId: P:Laga.GeneticAlgorithm.IChromosome`1.Count
-  fullName: Laga.GeneticAlgorithm.IChromosome<T>.Count
-  fullName.vb: Laga.GeneticAlgorithm.IChromosome(Of T).Count
-  nameWithType: IChromosome<T>.Count
-  nameWithType.vb: IChromosome(Of T).Count
-- uid: Laga.GeneticAlgorithm.IChromosome`1.Count*
-  name: Count
-  href: api/Laga.GeneticAlgorithm.IChromosome-1.html#Laga_GeneticAlgorithm_IChromosome_1_Count_
-  commentId: Overload:Laga.GeneticAlgorithm.IChromosome`1.Count
-  isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.IChromosome<T>.Count
-  fullName.vb: Laga.GeneticAlgorithm.IChromosome(Of T).Count
-  nameWithType: IChromosome<T>.Count
-  nameWithType.vb: IChromosome(Of T).Count
-- uid: Laga.GeneticAlgorithm.iDNA
-  name: iDNA
-  href: api/Laga.GeneticAlgorithm.iDNA.html
-  commentId: T:Laga.GeneticAlgorithm.iDNA
-  fullName: Laga.GeneticAlgorithm.iDNA
-  nameWithType: iDNA
 - uid: Laga.GeneticAlgorithm.LagaTools
   name: LagaTools
   href: api/Laga.GeneticAlgorithm.LagaTools.html
@@ -889,12 +910,15 @@ references:
   isSpec: "True"
   fullName: Laga.GeneticAlgorithm.Mutation.BinaryCharMutation
   nameWithType: Mutation.BinaryCharMutation
-- uid: Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population,System.Single,System.Int32,System.Int32)
-  name: CharMutation(Population, Single, Int32, Int32)
-  href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_CharMutation_Laga_GeneticAlgorithm_Population_System_Single_System_Int32_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population,System.Single,System.Int32,System.Int32)
-  fullName: Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population, System.Single, System.Int32, System.Int32)
-  nameWithType: Mutation.CharMutation(Population, Single, Int32, Int32)
+- uid: Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population{System.Char},System.Single,System.Int32,System.Int32)
+  name: CharMutation(Population<Char>, Single, Int32, Int32)
+  href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_CharMutation_Laga_GeneticAlgorithm_Population_System_Char__System_Single_System_Int32_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population{System.Char},System.Single,System.Int32,System.Int32)
+  name.vb: CharMutation(Population(Of Char), Single, Int32, Int32)
+  fullName: Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population<System.Char>, System.Single, System.Int32, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Mutation.CharMutation(Laga.GeneticAlgorithm.Population(Of System.Char), System.Single, System.Int32, System.Int32)
+  nameWithType: Mutation.CharMutation(Population<Char>, Single, Int32, Int32)
+  nameWithType.vb: Mutation.CharMutation(Population(Of Char), Single, Int32, Int32)
 - uid: Laga.GeneticAlgorithm.Mutation.CharMutation(System.Char[][],System.Single,System.Int32,System.Int32)
   name: CharMutation(Char[][], Single, Int32, Int32)
   href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_CharMutation_System_Char_____System_Single_System_Int32_System_Int32_
@@ -927,6 +951,22 @@ references:
   isSpec: "True"
   fullName: Laga.GeneticAlgorithm.Mutation.MutationSwap
   nameWithType: Mutation.MutationSwap
+- uid: Laga.GeneticAlgorithm.Mutation.Number(Laga.GeneticAlgorithm.Population{System.Double},System.Single,System.Double,System.Double)
+  name: Number(Population<Double>, Single, Double, Double)
+  href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_Number_Laga_GeneticAlgorithm_Population_System_Double__System_Single_System_Double_System_Double_
+  commentId: M:Laga.GeneticAlgorithm.Mutation.Number(Laga.GeneticAlgorithm.Population{System.Double},System.Single,System.Double,System.Double)
+  name.vb: Number(Population(Of Double), Single, Double, Double)
+  fullName: Laga.GeneticAlgorithm.Mutation.Number(Laga.GeneticAlgorithm.Population<System.Double>, System.Single, System.Double, System.Double)
+  fullName.vb: Laga.GeneticAlgorithm.Mutation.Number(Laga.GeneticAlgorithm.Population(Of System.Double), System.Single, System.Double, System.Double)
+  nameWithType: Mutation.Number(Population<Double>, Single, Double, Double)
+  nameWithType.vb: Mutation.Number(Population(Of Double), Single, Double, Double)
+- uid: Laga.GeneticAlgorithm.Mutation.Number*
+  name: Number
+  href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_Number_
+  commentId: Overload:Laga.GeneticAlgorithm.Mutation.Number
+  isSpec: "True"
+  fullName: Laga.GeneticAlgorithm.Mutation.Number
+  nameWithType: Mutation.Number
 - uid: Laga.GeneticAlgorithm.Mutation.NumbMutation(System.Double[][],System.Double,System.Double,System.Single)
   name: NumbMutation(Double[][], Double, Double, Single)
   href: api/Laga.GeneticAlgorithm.Mutation.html#Laga_GeneticAlgorithm_Mutation_NumbMutation_System_Double_____System_Double_System_Double_System_Single_
@@ -961,474 +1001,527 @@ references:
   isSpec: "True"
   fullName: Laga.GeneticAlgorithm.Mutation.NumbMutation
   nameWithType: Mutation.NumbMutation
-- uid: Laga.GeneticAlgorithm.NaturalSelection
-  name: NaturalSelection
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html
-  commentId: T:Laga.GeneticAlgorithm.NaturalSelection
-  fullName: Laga.GeneticAlgorithm.NaturalSelection
-  nameWithType: NaturalSelection
-- uid: Laga.GeneticAlgorithm.NaturalSelection.#ctor
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1
+  name: NaturalSelection<T>
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html
+  commentId: T:Laga.GeneticAlgorithm.NaturalSelection`1
+  name.vb: NaturalSelection(Of T)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T)
+  nameWithType: NaturalSelection<T>
+  nameWithType.vb: NaturalSelection(Of T)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.#ctor
   name: NaturalSelection()
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection__ctor
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.#ctor
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.NaturalSelection()
-  nameWithType: NaturalSelection.NaturalSelection()
-- uid: Laga.GeneticAlgorithm.NaturalSelection.#ctor*
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1__ctor
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.#ctor
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.NaturalSelection()
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).NaturalSelection()
+  nameWithType: NaturalSelection<T>.NaturalSelection()
+  nameWithType.vb: NaturalSelection(Of T).NaturalSelection()
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.#ctor*
   name: NaturalSelection
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection__ctor_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.#ctor
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1__ctor_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.#ctor
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.NaturalSelection
-  nameWithType: NaturalSelection.NaturalSelection
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Char[][],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.NaturalSelection
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).NaturalSelection
+  nameWithType: NaturalSelection<T>.NaturalSelection
+  nameWithType.vb: NaturalSelection(Of T).NaturalSelection
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Char[][],System.Int32)
   name: Elitism(Char[][], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_System_Char_____System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Char[][],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_System_Char_____System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Char[][],System.Int32)
   name.vb: Elitism(Char()(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Char[][], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Char()(), System.Int32)
-  nameWithType: NaturalSelection.Elitism(Char[][], Int32)
-  nameWithType.vb: NaturalSelection.Elitism(Char()(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Double[][],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism(System.Char[][], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism(System.Char()(), System.Int32)
+  nameWithType: NaturalSelection<T>.Elitism(Char[][], Int32)
+  nameWithType.vb: NaturalSelection(Of T).Elitism(Char()(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Double[][],System.Int32)
   name: Elitism(Double[][], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_System_Double_____System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Double[][],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_System_Double_____System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Double[][],System.Int32)
   name.vb: Elitism(Double()(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Double[][], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Double()(), System.Int32)
-  nameWithType: NaturalSelection.Elitism(Double[][], Int32)
-  nameWithType.vb: NaturalSelection.Elitism(Double()(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Int32[][],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism(System.Double[][], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism(System.Double()(), System.Int32)
+  nameWithType: NaturalSelection<T>.Elitism(Double[][], Int32)
+  nameWithType.vb: NaturalSelection(Of T).Elitism(Double()(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Int32[][],System.Int32)
   name: Elitism(Int32[][], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_System_Int32_____System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Int32[][],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_System_Int32_____System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Int32[][],System.Int32)
   name.vb: Elitism(Int32()(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Int32[][], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Int32()(), System.Int32)
-  nameWithType: NaturalSelection.Elitism(Int32[][], Int32)
-  nameWithType.vb: NaturalSelection.Elitism(Int32()(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Object[][],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism(System.Int32[][], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism(System.Int32()(), System.Int32)
+  nameWithType: NaturalSelection<T>.Elitism(Int32[][], Int32)
+  nameWithType.vb: NaturalSelection(Of T).Elitism(Int32()(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Object[][],System.Int32)
   name: Elitism(Object[][], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_System_Object_____System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Object[][],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_System_Object_____System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Object[][],System.Int32)
   name.vb: Elitism(Object()(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Object[][], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Object()(), System.Int32)
-  nameWithType: NaturalSelection.Elitism(Object[][], Int32)
-  nameWithType.vb: NaturalSelection.Elitism(Object()(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Single[][],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism(System.Object[][], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism(System.Object()(), System.Int32)
+  nameWithType: NaturalSelection<T>.Elitism(Object[][], Int32)
+  nameWithType.vb: NaturalSelection(Of T).Elitism(Object()(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Single[][],System.Int32)
   name: Elitism(Single[][], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_System_Single_____System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Single[][],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_System_Single_____System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism(System.Single[][],System.Int32)
   name.vb: Elitism(Single()(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Single[][], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.Elitism(System.Single()(), System.Int32)
-  nameWithType: NaturalSelection.Elitism(Single[][], Int32)
-  nameWithType.vb: NaturalSelection.Elitism(Single()(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.Elitism*
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism(System.Single[][], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism(System.Single()(), System.Int32)
+  nameWithType: NaturalSelection<T>.Elitism(Single[][], Int32)
+  nameWithType.vb: NaturalSelection(Of T).Elitism(Single()(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.Elitism*
   name: Elitism
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_Elitism_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.Elitism
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_Elitism_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.Elitism
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.Elitism
-  nameWithType: NaturalSelection.Elitism
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][],System.Int32[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.Elitism
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).Elitism
+  nameWithType: NaturalSelection<T>.Elitism
+  nameWithType.vb: NaturalSelection(Of T).Elitism
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Char[][],System.Int32[],System.Int32)
   name: RouletteWheel(Char[][], Int32[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Char_____System_Int32___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][],System.Int32[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Char_____System_Int32___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Char[][],System.Int32[],System.Int32)
   name.vb: RouletteWheel(Char()(), Int32(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][], System.Int32[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char()(), System.Int32(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Char[][], Int32[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Char()(), Int32(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Char[][], System.Int32[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Char()(), System.Int32(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Char[][], Int32[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Char()(), Int32(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Char[][],System.Single[],System.Int32)
   name: RouletteWheel(Char[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Char_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Char_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Char[][],System.Single[],System.Int32)
   name.vb: RouletteWheel(Char()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Char()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Char[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Char()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Double[][],System.Int32[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Char[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Char()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Char[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Char()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Double[][],System.Int32[],System.Int32)
   name: RouletteWheel(Double[][], Int32[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Double_____System_Int32___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Double[][],System.Int32[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Double_____System_Int32___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Double[][],System.Int32[],System.Int32)
   name.vb: RouletteWheel(Double()(), Int32(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Double[][], System.Int32[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Double()(), System.Int32(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Double[][], Int32[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Double()(), Int32(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Int32[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Double[][], System.Int32[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Double()(), System.Int32(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Double[][], Int32[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Double()(), Int32(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Int32[][],System.Single[],System.Int32)
   name: RouletteWheel(Int32[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Int32_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Int32[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Int32_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Int32[][],System.Single[],System.Int32)
   name.vb: RouletteWheel(Int32()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Int32[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Int32()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Int32[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Int32()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Object[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Int32[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Int32()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Int32[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Int32()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Object[][],System.Single[],System.Int32)
   name: RouletteWheel(Object[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Object_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Object[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Object_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Object[][],System.Single[],System.Int32)
   name.vb: RouletteWheel(Object()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Object[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Object()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Object[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Object()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][],System.Int32[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Object[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Object()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Object[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Object()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Single[][],System.Int32[],System.Int32)
   name: RouletteWheel(Single[][], Int32[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Single_____System_Int32___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][],System.Int32[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Single_____System_Int32___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Single[][],System.Int32[],System.Int32)
   name.vb: RouletteWheel(Single()(), Int32(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][], System.Int32[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single()(), System.Int32(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Single[][], Int32[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Single()(), Int32(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Single[][], System.Int32[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Single()(), System.Int32(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Single[][], Int32[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Single()(), Int32(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Single[][],System.Single[],System.Int32)
   name: RouletteWheel(Single[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_System_Single_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_System_Single_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel(System.Single[][],System.Single[],System.Int32)
   name.vb: RouletteWheel(Single()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel(System.Single()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheel(Single[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheel(Single()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel*
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel(System.Single[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel(System.Single()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheel(Single[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel(Single()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel*
   name: RouletteWheel
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheel_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheel_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheel
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheel
-  nameWithType: NaturalSelection.RouletteWheel
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population,System.Int32)
-  name: RouletteWheelNonPolinomicMin(Population, Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin_Laga_GeneticAlgorithm_Population_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population,System.Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population, System.Int32)
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin(Population, Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Char[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheel
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheel
+  nameWithType: NaturalSelection<T>.RouletteWheel
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheel
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population{`0},System.Int32)
+  name: RouletteWheelNonPolinomicMin(Population<T>, Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelNonPolinomicMin_Laga_GeneticAlgorithm_Population__0__System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population{`0},System.Int32)
+  name.vb: RouletteWheelNonPolinomicMin(Population(Of T), Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population<T>, System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelNonPolinomicMin(Laga.GeneticAlgorithm.Population(Of T), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheelNonPolinomicMin(Population<T>, Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelNonPolinomicMin(Population(Of T), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Char[][],System.Single[],System.Int32)
   name: RouletteWheelNonPolinomicMin(Char[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin_System_Char_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Char[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelNonPolinomicMin_System_Char_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Char[][],System.Single[],System.Int32)
   name.vb: RouletteWheelNonPolinomicMin(Char()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Char[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Char()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin(Char[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheelNonPolinomicMin(Char()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Double[][],System.Single[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelNonPolinomicMin(System.Char[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelNonPolinomicMin(System.Char()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheelNonPolinomicMin(Char[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelNonPolinomicMin(Char()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Double[][],System.Single[],System.Int32)
   name: RouletteWheelNonPolinomicMin(Double[][], Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin_System_Double_____System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Double[][],System.Single[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelNonPolinomicMin_System_Double_____System_Single___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Double[][],System.Single[],System.Int32)
   name.vb: RouletteWheelNonPolinomicMin(Double()(), Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Double[][], System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Double()(), System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin(Double[][], Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheelNonPolinomicMin(Double()(), Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Object[][],System.Int32[],System.Int32)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelNonPolinomicMin(System.Double[][], System.Single[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelNonPolinomicMin(System.Double()(), System.Single(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheelNonPolinomicMin(Double[][], Single[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelNonPolinomicMin(Double()(), Single(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Object[][],System.Int32[],System.Int32)
   name: RouletteWheelNonPolinomicMin(Object[][], Int32[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin_System_Object_____System_Int32___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Object[][],System.Int32[],System.Int32)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelNonPolinomicMin_System_Object_____System_Int32___System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin(System.Object[][],System.Int32[],System.Int32)
   name.vb: RouletteWheelNonPolinomicMin(Object()(), Int32(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Object[][], System.Int32[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(System.Object()(), System.Int32(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin(Object[][], Int32[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheelNonPolinomicMin(Object()(), Int32(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin*
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelNonPolinomicMin(System.Object[][], System.Int32[], System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelNonPolinomicMin(System.Object()(), System.Int32(), System.Int32)
+  nameWithType: NaturalSelection<T>.RouletteWheelNonPolinomicMin(Object[][], Int32[], Int32)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelNonPolinomicMin(Object()(), Int32(), Int32)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin*
   name: RouletteWheelNonPolinomicMin
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelNonPolinomicMin_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelNonPolinomicMin
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin``1(Laga.GeneticAlgorithm.Population,System.Single[],System.Int32)
-  name: RouletteWheelNonPolinomicMin<T>(Population, Single[], Int32)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelNonPolinomicMin__1_Laga_GeneticAlgorithm_Population_System_Single___System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin``1(Laga.GeneticAlgorithm.Population,System.Single[],System.Int32)
-  name.vb: RouletteWheelNonPolinomicMin(Of T)(Population, Single(), Int32)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin<T>(Laga.GeneticAlgorithm.Population, System.Single[], System.Int32)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelNonPolinomicMin(Of T)(Laga.GeneticAlgorithm.Population, System.Single(), System.Int32)
-  nameWithType: NaturalSelection.RouletteWheelNonPolinomicMin<T>(Population, Single[], Int32)
-  nameWithType.vb: NaturalSelection.RouletteWheelNonPolinomicMin(Of T)(Population, Single(), Int32)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Char[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelNonPolinomicMin
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelNonPolinomicMin
+  nameWithType: NaturalSelection<T>.RouletteWheelNonPolinomicMin
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelNonPolinomicMin
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Char[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name: RouletteWheelSigmoidal(Char[][], Int32, Int32, Int32, Int32, Int32, Single)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_System_Char_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Char[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_System_Char_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Char[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name.vb: RouletteWheelSigmoidal(Char()(), Int32, Int32, Int32, Int32, Int32, Single)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Char[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Char()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal(Char[][], Int32, Int32, Int32, Int32, Int32, Single)
-  nameWithType.vb: NaturalSelection.RouletteWheelSigmoidal(Char()(), Int32, Int32, Int32, Int32, Int32, Single)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Double[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal(System.Char[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal(System.Char()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal(Char[][], Int32, Int32, Int32, Int32, Int32, Single)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal(Char()(), Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Double[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name: RouletteWheelSigmoidal(Double[][], Int32, Int32, Int32, Int32, Int32, Single)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_System_Double_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Double[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_System_Double_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Double[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name.vb: RouletteWheelSigmoidal(Double()(), Int32, Int32, Int32, Int32, Int32, Single)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Double[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Double()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal(Double[][], Int32, Int32, Int32, Int32, Int32, Single)
-  nameWithType.vb: NaturalSelection.RouletteWheelSigmoidal(Double()(), Int32, Int32, Int32, Int32, Int32, Single)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Int32[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal(System.Double[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal(System.Double()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal(Double[][], Int32, Int32, Int32, Int32, Int32, Single)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal(Double()(), Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Int32[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name: RouletteWheelSigmoidal(Int32[][], Int32, Int32, Int32, Int32, Int32, Single)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_System_Int32_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Int32[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_System_Int32_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Int32[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name.vb: RouletteWheelSigmoidal(Int32()(), Int32, Int32, Int32, Int32, Int32, Single)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Int32[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Int32()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal(Int32[][], Int32, Int32, Int32, Int32, Int32, Single)
-  nameWithType.vb: NaturalSelection.RouletteWheelSigmoidal(Int32()(), Int32, Int32, Int32, Int32, Int32, Single)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Object[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal(System.Int32[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal(System.Int32()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal(Int32[][], Int32, Int32, Int32, Int32, Int32, Single)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal(Int32()(), Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Object[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name: RouletteWheelSigmoidal(Object[][], Int32, Int32, Int32, Int32, Int32, Single)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_System_Object_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Object[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_System_Object_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Object[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name.vb: RouletteWheelSigmoidal(Object()(), Int32, Int32, Int32, Int32, Int32, Single)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Object[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Object()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal(Object[][], Int32, Int32, Int32, Int32, Int32, Single)
-  nameWithType.vb: NaturalSelection.RouletteWheelSigmoidal(Object()(), Int32, Int32, Int32, Int32, Int32, Single)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Single[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal(System.Object[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal(System.Object()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal(Object[][], Int32, Int32, Int32, Int32, Int32, Single)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal(Object()(), Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Single[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name: RouletteWheelSigmoidal(Single[][], Int32, Int32, Int32, Int32, Int32, Single)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_System_Single_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Single[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_System_Single_____System_Int32_System_Int32_System_Int32_System_Int32_System_Int32_System_Single_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal(System.Single[][],System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Single)
   name.vb: RouletteWheelSigmoidal(Single()(), Int32, Int32, Int32, Int32, Int32, Single)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Single[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal(System.Single()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal(Single[][], Int32, Int32, Int32, Int32, Int32, Single)
-  nameWithType.vb: NaturalSelection.RouletteWheelSigmoidal(Single()(), Int32, Int32, Int32, Int32, Int32, Single)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal*
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal(System.Single[][], System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal(System.Single()(), System.Int32, System.Int32, System.Int32, System.Int32, System.Int32, System.Single)
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal(Single[][], Int32, Int32, Int32, Int32, Int32, Single)
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal(Single()(), Int32, Int32, Int32, Int32, Int32, Single)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal*
   name: RouletteWheelSigmoidal
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_RouletteWheelSigmoidal_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_RouletteWheelSigmoidal_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.RouletteWheelSigmoidal
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.RouletteWheelSigmoidal
-  nameWithType: NaturalSelection.RouletteWheelSigmoidal
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][],System.Int32[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.RouletteWheelSigmoidal
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).RouletteWheelSigmoidal
+  nameWithType: NaturalSelection<T>.RouletteWheelSigmoidal
+  nameWithType.vb: NaturalSelection(Of T).RouletteWheelSigmoidal
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Char[][],System.Int32[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Char[][], Int32[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Char_____System_Int32___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][],System.Int32[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Char_____System_Int32___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Char[][],System.Int32[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Char()(), Int32(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][], System.Int32[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char()(), System.Int32(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Char[][], Int32[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Char()(), Int32(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][],System.Single[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Char[][], System.Int32[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Char()(), System.Int32(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Char[][], Int32[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Char()(), Int32(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Char[][],System.Single[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Char[][], Single[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Char_____System_Single___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][],System.Single[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Char_____System_Single___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Char[][],System.Single[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Char()(), Single(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char[][], System.Single[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Char()(), System.Single(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Char[][], Single[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Char()(), Single(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][],System.Int32[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Char[][], System.Single[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Char()(), System.Single(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Char[][], Single[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Char()(), Single(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Double[][],System.Int32[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Double[][], Int32[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Double_____System_Int32___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][],System.Int32[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Double_____System_Int32___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Double[][],System.Int32[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Double()(), Int32(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][], System.Int32[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double()(), System.Int32(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Double[][], Int32[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Double()(), Int32(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][],System.Single[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Double[][], System.Int32[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Double()(), System.Int32(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Double[][], Int32[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Double()(), Int32(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Double[][],System.Single[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Double[][], Single[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Double_____System_Single___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][],System.Single[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Double_____System_Single___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Double[][],System.Single[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Double()(), Single(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double[][], System.Single[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Double()(), System.Single(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Double[][], Single[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Double()(), Single(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][],System.Int32[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Double[][], System.Single[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Double()(), System.Single(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Double[][], Single[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Double()(), Single(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Int32[][],System.Int32[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Int32[][], Int32[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Int32_____System_Int32___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][],System.Int32[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Int32_____System_Int32___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Int32[][],System.Int32[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Int32()(), Int32(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][], System.Int32[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32()(), System.Int32(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Int32[][], Int32[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Int32()(), Int32(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][],System.Single[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Int32[][], System.Int32[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Int32()(), System.Int32(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Int32[][], Int32[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Int32()(), Int32(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Int32[][],System.Single[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Int32[][], Single[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Int32_____System_Single___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][],System.Single[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Int32_____System_Single___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Int32[][],System.Single[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Int32()(), Single(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32[][], System.Single[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Int32()(), System.Single(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Int32[][], Single[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Int32()(), Single(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][],System.Int32[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Int32[][], System.Single[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Int32()(), System.Single(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Int32[][], Single[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Int32()(), Single(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Object[][],System.Int32[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Object[][], Int32[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Object_____System_Int32___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][],System.Int32[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Object_____System_Int32___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Object[][],System.Int32[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Object()(), Int32(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][], System.Int32[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object()(), System.Int32(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Object[][], Int32[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Object()(), Int32(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][],System.Single[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Object[][], System.Int32[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Object()(), System.Int32(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Object[][], Int32[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Object()(), Int32(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Object[][],System.Single[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Object[][], Single[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Object_____System_Single___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][],System.Single[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Object_____System_Single___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Object[][],System.Single[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Object()(), Single(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object[][], System.Single[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Object()(), System.Single(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Object[][], Single[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Object()(), Single(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][],System.Int32[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Object[][], System.Single[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Object()(), System.Single(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Object[][], Single[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Object()(), Single(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Single[][],System.Int32[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Single[][], Int32[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Single_____System_Int32___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][],System.Int32[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Single_____System_Int32___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Single[][],System.Int32[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Single()(), Int32(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][], System.Int32[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single()(), System.Int32(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Single[][], Int32[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Single()(), Int32(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][],System.Single[],System.Int32,System.Int32,System.String)
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Single[][], System.Int32[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Single()(), System.Int32(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Single[][], Int32[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Single()(), Int32(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Single[][],System.Single[],System.Int32,System.Int32,System.String)
   name: TournamentSelection(Single[][], Single[], Int32, Int32, String)
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_System_Single_____System_Single___System_Int32_System_Int32_System_String_
-  commentId: M:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][],System.Single[],System.Int32,System.Int32,System.String)
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_System_Single_____System_Single___System_Int32_System_Int32_System_String_
+  commentId: M:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection(System.Single[][],System.Single[],System.Int32,System.Int32,System.String)
   name.vb: TournamentSelection(Single()(), Single(), Int32, Int32, String)
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single[][], System.Single[], System.Int32, System.Int32, System.String)
-  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection(System.Single()(), System.Single(), System.Int32, System.Int32, System.String)
-  nameWithType: NaturalSelection.TournamentSelection(Single[][], Single[], Int32, Int32, String)
-  nameWithType.vb: NaturalSelection.TournamentSelection(Single()(), Single(), Int32, Int32, String)
-- uid: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection*
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection(System.Single[][], System.Single[], System.Int32, System.Int32, System.String)
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection(System.Single()(), System.Single(), System.Int32, System.Int32, System.String)
+  nameWithType: NaturalSelection<T>.TournamentSelection(Single[][], Single[], Int32, Int32, String)
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection(Single()(), Single(), Int32, Int32, String)
+- uid: Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection*
   name: TournamentSelection
-  href: api/Laga.GeneticAlgorithm.NaturalSelection.html#Laga_GeneticAlgorithm_NaturalSelection_TournamentSelection_
-  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection
+  href: api/Laga.GeneticAlgorithm.NaturalSelection-1.html#Laga_GeneticAlgorithm_NaturalSelection_1_TournamentSelection_
+  commentId: Overload:Laga.GeneticAlgorithm.NaturalSelection`1.TournamentSelection
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.NaturalSelection.TournamentSelection
-  nameWithType: NaturalSelection.TournamentSelection
-- uid: Laga.GeneticAlgorithm.Population
-  name: Population
-  href: api/Laga.GeneticAlgorithm.Population.html
-  commentId: T:Laga.GeneticAlgorithm.Population
-  fullName: Laga.GeneticAlgorithm.Population
-  nameWithType: Population
-- uid: Laga.GeneticAlgorithm.Population.#ctor
+  fullName: Laga.GeneticAlgorithm.NaturalSelection<T>.TournamentSelection
+  fullName.vb: Laga.GeneticAlgorithm.NaturalSelection(Of T).TournamentSelection
+  nameWithType: NaturalSelection<T>.TournamentSelection
+  nameWithType.vb: NaturalSelection(Of T).TournamentSelection
+- uid: Laga.GeneticAlgorithm.Population`1
+  name: Population<T>
+  href: api/Laga.GeneticAlgorithm.Population-1.html
+  commentId: T:Laga.GeneticAlgorithm.Population`1
+  name.vb: Population(Of T)
+  fullName: Laga.GeneticAlgorithm.Population<T>
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T)
+  nameWithType: Population<T>
+  nameWithType.vb: Population(Of T)
+- uid: Laga.GeneticAlgorithm.Population`1.#ctor
   name: Population()
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population__ctor
-  commentId: M:Laga.GeneticAlgorithm.Population.#ctor
-  fullName: Laga.GeneticAlgorithm.Population.Population()
-  nameWithType: Population.Population()
-- uid: Laga.GeneticAlgorithm.Population.#ctor(System.Int32)
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1__ctor
+  commentId: M:Laga.GeneticAlgorithm.Population`1.#ctor
+  fullName: Laga.GeneticAlgorithm.Population<T>.Population()
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Population()
+  nameWithType: Population<T>.Population()
+  nameWithType.vb: Population(Of T).Population()
+- uid: Laga.GeneticAlgorithm.Population`1.#ctor(System.Int32)
   name: Population(Int32)
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population__ctor_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Population.#ctor(System.Int32)
-  fullName: Laga.GeneticAlgorithm.Population.Population(System.Int32)
-  nameWithType: Population.Population(Int32)
-- uid: Laga.GeneticAlgorithm.Population.#ctor*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1__ctor_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Population`1.#ctor(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Population<T>.Population(System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Population(System.Int32)
+  nameWithType: Population<T>.Population(Int32)
+  nameWithType.vb: Population(Of T).Population(Int32)
+- uid: Laga.GeneticAlgorithm.Population`1.#ctor*
   name: Population
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population__ctor_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.#ctor
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1__ctor_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.#ctor
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Population
-  nameWithType: Population.Population
-- uid: Laga.GeneticAlgorithm.Population.Add(Laga.GeneticAlgorithm.Chromosome)
-  name: Add(Chromosome)
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Add_Laga_GeneticAlgorithm_Chromosome_
-  commentId: M:Laga.GeneticAlgorithm.Population.Add(Laga.GeneticAlgorithm.Chromosome)
-  fullName: Laga.GeneticAlgorithm.Population.Add(Laga.GeneticAlgorithm.Chromosome)
-  nameWithType: Population.Add(Chromosome)
-- uid: Laga.GeneticAlgorithm.Population.Add*
+  fullName: Laga.GeneticAlgorithm.Population<T>.Population
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Population
+  nameWithType: Population<T>.Population
+  nameWithType.vb: Population(Of T).Population
+- uid: Laga.GeneticAlgorithm.Population`1.Add(Laga.GeneticAlgorithm.Chromosome{`0})
+  name: Add(Chromosome<T>)
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Add_Laga_GeneticAlgorithm_Chromosome__0__
+  commentId: M:Laga.GeneticAlgorithm.Population`1.Add(Laga.GeneticAlgorithm.Chromosome{`0})
+  name.vb: Add(Chromosome(Of T))
+  fullName: Laga.GeneticAlgorithm.Population<T>.Add(Laga.GeneticAlgorithm.Chromosome<T>)
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Add(Laga.GeneticAlgorithm.Chromosome(Of T))
+  nameWithType: Population<T>.Add(Chromosome<T>)
+  nameWithType.vb: Population(Of T).Add(Chromosome(Of T))
+- uid: Laga.GeneticAlgorithm.Population`1.Add*
   name: Add
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Add_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.Add
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Add_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.Add
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Add
-  nameWithType: Population.Add
-- uid: Laga.GeneticAlgorithm.Population.Count
+  fullName: Laga.GeneticAlgorithm.Population<T>.Add
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Add
+  nameWithType: Population<T>.Add
+  nameWithType.vb: Population(Of T).Add
+- uid: Laga.GeneticAlgorithm.Population`1.Count
   name: Count
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Count
-  commentId: P:Laga.GeneticAlgorithm.Population.Count
-  fullName: Laga.GeneticAlgorithm.Population.Count
-  nameWithType: Population.Count
-- uid: Laga.GeneticAlgorithm.Population.Count*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Count
+  commentId: P:Laga.GeneticAlgorithm.Population`1.Count
+  fullName: Laga.GeneticAlgorithm.Population<T>.Count
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Count
+  nameWithType: Population<T>.Count
+  nameWithType.vb: Population(Of T).Count
+- uid: Laga.GeneticAlgorithm.Population`1.Count*
   name: Count
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Count_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.Count
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Count_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.Count
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Count
-  nameWithType: Population.Count
-- uid: Laga.GeneticAlgorithm.Population.Delete(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Population<T>.Count
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Count
+  nameWithType: Population<T>.Count
+  nameWithType.vb: Population(Of T).Count
+- uid: Laga.GeneticAlgorithm.Population`1.Delete(System.Int32)
   name: Delete(Int32)
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Delete_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Population.Delete(System.Int32)
-  fullName: Laga.GeneticAlgorithm.Population.Delete(System.Int32)
-  nameWithType: Population.Delete(Int32)
-- uid: Laga.GeneticAlgorithm.Population.Delete*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Delete_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Population`1.Delete(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Population<T>.Delete(System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Delete(System.Int32)
+  nameWithType: Population<T>.Delete(Int32)
+  nameWithType.vb: Population(Of T).Delete(Int32)
+- uid: Laga.GeneticAlgorithm.Population`1.Delete*
   name: Delete
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Delete_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.Delete
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Delete_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.Delete
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Delete
-  nameWithType: Population.Delete
-- uid: Laga.GeneticAlgorithm.Population.FitnessAverage
+  fullName: Laga.GeneticAlgorithm.Population<T>.Delete
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Delete
+  nameWithType: Population<T>.Delete
+  nameWithType.vb: Population(Of T).Delete
+- uid: Laga.GeneticAlgorithm.Population`1.FitnessAverage
   name: FitnessAverage()
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_FitnessAverage
-  commentId: M:Laga.GeneticAlgorithm.Population.FitnessAverage
-  fullName: Laga.GeneticAlgorithm.Population.FitnessAverage()
-  nameWithType: Population.FitnessAverage()
-- uid: Laga.GeneticAlgorithm.Population.FitnessAverage*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_FitnessAverage
+  commentId: M:Laga.GeneticAlgorithm.Population`1.FitnessAverage
+  fullName: Laga.GeneticAlgorithm.Population<T>.FitnessAverage()
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).FitnessAverage()
+  nameWithType: Population<T>.FitnessAverage()
+  nameWithType.vb: Population(Of T).FitnessAverage()
+- uid: Laga.GeneticAlgorithm.Population`1.FitnessAverage*
   name: FitnessAverage
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_FitnessAverage_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.FitnessAverage
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_FitnessAverage_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.FitnessAverage
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.FitnessAverage
-  nameWithType: Population.FitnessAverage
-- uid: Laga.GeneticAlgorithm.Population.GetChromosome(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Population<T>.FitnessAverage
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).FitnessAverage
+  nameWithType: Population<T>.FitnessAverage
+  nameWithType.vb: Population(Of T).FitnessAverage
+- uid: Laga.GeneticAlgorithm.Population`1.GetChromosome(System.Int32)
   name: GetChromosome(Int32)
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_GetChromosome_System_Int32_
-  commentId: M:Laga.GeneticAlgorithm.Population.GetChromosome(System.Int32)
-  fullName: Laga.GeneticAlgorithm.Population.GetChromosome(System.Int32)
-  nameWithType: Population.GetChromosome(Int32)
-- uid: Laga.GeneticAlgorithm.Population.GetChromosome*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_GetChromosome_System_Int32_
+  commentId: M:Laga.GeneticAlgorithm.Population`1.GetChromosome(System.Int32)
+  fullName: Laga.GeneticAlgorithm.Population<T>.GetChromosome(System.Int32)
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).GetChromosome(System.Int32)
+  nameWithType: Population<T>.GetChromosome(Int32)
+  nameWithType.vb: Population(Of T).GetChromosome(Int32)
+- uid: Laga.GeneticAlgorithm.Population`1.GetChromosome*
   name: GetChromosome
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_GetChromosome_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.GetChromosome
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_GetChromosome_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.GetChromosome
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.GetChromosome
-  nameWithType: Population.GetChromosome
-- uid: Laga.GeneticAlgorithm.Population.GetEnumerator
+  fullName: Laga.GeneticAlgorithm.Population<T>.GetChromosome
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).GetChromosome
+  nameWithType: Population<T>.GetChromosome
+  nameWithType.vb: Population(Of T).GetChromosome
+- uid: Laga.GeneticAlgorithm.Population`1.GetEnumerator
   name: GetEnumerator()
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_GetEnumerator
-  commentId: M:Laga.GeneticAlgorithm.Population.GetEnumerator
-  fullName: Laga.GeneticAlgorithm.Population.GetEnumerator()
-  nameWithType: Population.GetEnumerator()
-- uid: Laga.GeneticAlgorithm.Population.GetEnumerator*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_GetEnumerator
+  commentId: M:Laga.GeneticAlgorithm.Population`1.GetEnumerator
+  fullName: Laga.GeneticAlgorithm.Population<T>.GetEnumerator()
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).GetEnumerator()
+  nameWithType: Population<T>.GetEnumerator()
+  nameWithType.vb: Population(Of T).GetEnumerator()
+- uid: Laga.GeneticAlgorithm.Population`1.GetEnumerator*
   name: GetEnumerator
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_GetEnumerator_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.GetEnumerator
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_GetEnumerator_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.GetEnumerator
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.GetEnumerator
-  nameWithType: Population.GetEnumerator
-- uid: Laga.GeneticAlgorithm.Population.Higher
+  fullName: Laga.GeneticAlgorithm.Population<T>.GetEnumerator
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).GetEnumerator
+  nameWithType: Population<T>.GetEnumerator
+  nameWithType.vb: Population(Of T).GetEnumerator
+- uid: Laga.GeneticAlgorithm.Population`1.Higher
   name: Higher()
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Higher
-  commentId: M:Laga.GeneticAlgorithm.Population.Higher
-  fullName: Laga.GeneticAlgorithm.Population.Higher()
-  nameWithType: Population.Higher()
-- uid: Laga.GeneticAlgorithm.Population.Higher*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Higher
+  commentId: M:Laga.GeneticAlgorithm.Population`1.Higher
+  fullName: Laga.GeneticAlgorithm.Population<T>.Higher()
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Higher()
+  nameWithType: Population<T>.Higher()
+  nameWithType.vb: Population(Of T).Higher()
+- uid: Laga.GeneticAlgorithm.Population`1.Higher*
   name: Higher
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Higher_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.Higher
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Higher_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.Higher
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Higher
-  nameWithType: Population.Higher
-- uid: Laga.GeneticAlgorithm.Population.Lower
+  fullName: Laga.GeneticAlgorithm.Population<T>.Higher
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Higher
+  nameWithType: Population<T>.Higher
+  nameWithType.vb: Population(Of T).Higher
+- uid: Laga.GeneticAlgorithm.Population`1.Lower
   name: Lower()
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Lower
-  commentId: M:Laga.GeneticAlgorithm.Population.Lower
-  fullName: Laga.GeneticAlgorithm.Population.Lower()
-  nameWithType: Population.Lower()
-- uid: Laga.GeneticAlgorithm.Population.Lower*
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Lower
+  commentId: M:Laga.GeneticAlgorithm.Population`1.Lower
+  fullName: Laga.GeneticAlgorithm.Population<T>.Lower()
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Lower()
+  nameWithType: Population<T>.Lower()
+  nameWithType.vb: Population(Of T).Lower()
+- uid: Laga.GeneticAlgorithm.Population`1.Lower*
   name: Lower
-  href: api/Laga.GeneticAlgorithm.Population.html#Laga_GeneticAlgorithm_Population_Lower_
-  commentId: Overload:Laga.GeneticAlgorithm.Population.Lower
+  href: api/Laga.GeneticAlgorithm.Population-1.html#Laga_GeneticAlgorithm_Population_1_Lower_
+  commentId: Overload:Laga.GeneticAlgorithm.Population`1.Lower
   isSpec: "True"
-  fullName: Laga.GeneticAlgorithm.Population.Lower
-  nameWithType: Population.Lower
+  fullName: Laga.GeneticAlgorithm.Population<T>.Lower
+  fullName.vb: Laga.GeneticAlgorithm.Population(Of T).Lower
+  nameWithType: Population<T>.Lower
+  nameWithType.vb: Population(Of T).Lower
 - uid: Laga.GeneticAlgorithm.RankingSort
   name: RankingSort
   href: api/Laga.GeneticAlgorithm.RankingSort.html
@@ -2303,6 +2396,12 @@ references:
   commentId: T:Laga.Numbers.Rand
   fullName: Laga.Numbers.Rand
   nameWithType: Rand
+- uid: Laga.Numbers.Rand.RandomNumbers(System.Int32,System.Double,System.Double)
+  name: RandomNumbers(Int32, Double, Double)
+  href: api/Laga.Numbers.Rand.html#Laga_Numbers_Rand_RandomNumbers_System_Int32_System_Double_System_Double_
+  commentId: M:Laga.Numbers.Rand.RandomNumbers(System.Int32,System.Double,System.Double)
+  fullName: Laga.Numbers.Rand.RandomNumbers(System.Int32, System.Double, System.Double)
+  nameWithType: Rand.RandomNumbers(Int32, Double, Double)
 - uid: Laga.Numbers.Rand.RandomNumbers(System.Int32,System.Single,System.Single)
   name: RandomNumbers(Int32, Single, Single)
   href: api/Laga.Numbers.Rand.html#Laga_Numbers_Rand_RandomNumbers_System_Int32_System_Single_System_Single_
