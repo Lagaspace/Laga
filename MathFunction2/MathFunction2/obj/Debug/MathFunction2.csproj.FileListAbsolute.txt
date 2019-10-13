@@ -1,0 +1,11 @@
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\MathFunction2.exe.config
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\MathFunction2.exe
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\MathFunction2.pdb
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\Laga.dll
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\Laga.pdb
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\bin\Debug\Laga.xml
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\obj\Debug\MathFunction2.csproj.CoreCompileInputs.cache
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\obj\Debug\MathFunction2.csproj.CopyComplete
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\obj\Debug\MathFunction2.exe
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\obj\Debug\MathFunction2.pdb
+C:\Users\delab\source\repos\MathFunction2\MathFunction2\obj\Debug\MathFunction2.csprojAssemblyReference.cache

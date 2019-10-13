@@ -1,0 +1,11 @@
+C:\Users\delab\source\repos\Piscosour\Piscosour\obj\Debug\Piscosour.csproj.CoreCompileInputs.cache
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Piscosour.exe.config
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Piscosour.exe
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Piscosour.pdb
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Laga.dll
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Laga.pdb
+C:\Users\delab\source\repos\Piscosour\Piscosour\bin\Debug\Laga.xml
+C:\Users\delab\source\repos\Piscosour\Piscosour\obj\Debug\Piscosour.csproj.CopyComplete
+C:\Users\delab\source\repos\Piscosour\Piscosour\obj\Debug\Piscosour.exe
+C:\Users\delab\source\repos\Piscosour\Piscosour\obj\Debug\Piscosour.pdb
+C:\Users\delab\source\repos\Piscosour\Piscosour\obj\Debug\Piscosour.csprojAssemblyReference.cache
