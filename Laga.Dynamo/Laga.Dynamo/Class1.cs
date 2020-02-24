@@ -11,24 +11,29 @@ namespace LagaDynamo
     public class helloDynamo
     {
         private helloDynamo() { }
-        public static string SayHello(string name)
-        {
-            return "hello " + name;
-        }
 
-        public static List<Line> ReadData(bool read)
+        /// <summary>
+        /// Read the whole data in an excel worksheet
+        /// </summary>
+        /// <param name="read"></param>
+        /// <param name="path"></param>
+        /// <param name="activeSheet"></param>
+        /// <returns></returns>
+        public static List<List<string>> ReadDataExcel(bool read, string path, int activeSheet)
         {
             List<Line> lstLineStr = new List<Line>();
+            List<List<string>> bigData = new List<List<string>>();
 
             if (read)
             {
-                string path = "C:\\Users\\Carlos.Delabarrera\\Documents\\Scrum-Revit Bridge\\Bridge.xlsx";
+                //string path = "C:\\Users\\Carlos.Delabarrera\\Documents\\Scrum-Revit Bridge\\Bridge.xlsx";
                 IOExcelRead iOExcelRead = new IOExcelRead(path);
                 iOExcelRead.IORead_OpenExcelApp();
-                iOExcelRead.IORead_SetActiveSheet(2, true);
-                List<List<string>> bigData = iOExcelRead.IOReadRange("");
+                iOExcelRead.IORead_SetActiveSheet(activeSheet, true);
+                bigData = iOExcelRead.IOReadRange("");
                 iOExcelRead.CloseExcelApp(false);
-
+                return bigData;
+                /*
                 double Xa, Xb, Ya, Yb, Za, Zb;
 
                 //autodesk geometry...
@@ -55,13 +60,15 @@ namespace LagaDynamo
                     }
                 }
 
-                return lstLineStr;
+                return bigData;
+                */
+            }
 
-            }
             else
-            {
-                return lstLineStr;
+                {
+                return bigData;
             }
+            
 
         }
 
