@@ -53,7 +53,7 @@ namespace LagaUnity
         /// <summary>
         /// Draw a line
         /// </summary>
-        /// <param name="pointA"></param>
+        /// <param name="pointA">The first point</param>
         /// <param name="pointB"></param>
         /// <param name="width"></param>
         /// <param name="color"></param>
