@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace LagaUnity
 {
-    class Line
+    public class Line
     {
         private Point pa;
         private Point pb;
