@@ -63,6 +63,15 @@ namespace LagaUnity
         }
 
         /// <summary>
+        ///  Line point coordinates
+        /// </summary>
+        /// <returns>string</returns>
+        public override string ToString()
+        {
+            return "Line_" + PointA.ToString() + " - " + PointB.ToString(); 
+        }
+
+        /// <summary>
         /// 
         /// </summary>
         /// <param name="width"></param>
