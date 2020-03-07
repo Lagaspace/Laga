@@ -679,13 +679,13 @@ Chromosome: 4
   
   
   <a id="Laga_GeneticAlgorithm_GenrPopulation_PointPopulation_" data-uid="Laga.GeneticAlgorithm.GenrPopulation.PointPopulation*"></a>
-  <h4 id="Laga_GeneticAlgorithm_GenrPopulation_PointPopulation_System_Int32_System_Double_System_Double_System_Double_System_Double_System_Double_System_Double_" data-uid="Laga.GeneticAlgorithm.GenrPopulation.PointPopulation(System.Int32,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">PointPopulation(Int32, Double, Double, Double, Double, Double, Double)</h4>
+  <h4 id="Laga_GeneticAlgorithm_GenrPopulation_PointPopulation_System_Int32_System_Single_System_Single_System_Single_System_Single_System_Single_System_Single_" data-uid="Laga.GeneticAlgorithm.GenrPopulation.PointPopulation(System.Int32,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)">PointPopulation(Int32, Single, Single, Single, Single, Single, Single)</h4>
   <div class="markdown level1 summary"><p>Genr8 a Random population of points [x,y,z]</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Vector[][] PointPopulation(int SizeChromosome, double minX, double maxX, double minY, double maxY, double minZ, double maxZ)</code></pre>
+    <pre><code class="lang-csharp hljs">public Point[][] PointPopulation(int SizeChromosome, float minX, float maxX, float minY, float maxY, float minZ, float maxZ)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -704,37 +704,37 @@ Chromosome: 4
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">minX</span></td>
         <td><p>The minimum value for X coordinate</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">maxX</span></td>
         <td><p>The maximum value for X coordinate</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">minY</span></td>
         <td><p>The minimum value for Y coordinate</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">maxY</span></td>
         <td><p>The maximum value for Y coordinate</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">minZ</span></td>
         <td><p>The minimum value for Z coordinate</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Double</span></td>
+        <td><span class="xref">System.Single</span></td>
         <td><span class="parametername">maxZ</span></td>
         <td><p>The maximum value for Z coordinate</p>
 </td>
@@ -751,13 +751,13 @@ Chromosome: 4
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="Laga.Geometry.Vector.html">Vector</a>[][]</td>
+        <td><a class="xref" href="LagaUnity.Point.html">Point</a>[][]</td>
         <td><p>a population of points</p>
 </td>
       </tr>
     </tbody>
   </table>
-  <h5 id="Laga_GeneticAlgorithm_GenrPopulation_PointPopulation_System_Int32_System_Double_System_Double_System_Double_System_Double_System_Double_System_Double__examples">Examples</h5>
+  <h5 id="Laga_GeneticAlgorithm_GenrPopulation_PointPopulation_System_Int32_System_Single_System_Single_System_Single_System_Single_System_Single_System_Single__examples">Examples</h5>
   <pre><code>GenrPopulation pop = new GenrPopulation(5);
 point[][] pntPop = pop.PointPopulation(4, 0, 100d, 0d, 100d, 0d, 100d);
 

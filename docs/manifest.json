@@ -12,7 +12,7 @@
           "hash": "STqvrfQWTjOAad+2D2ZIDA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -24,7 +24,7 @@
           "hash": "RCowmAwjwP/f97vnBmI16A=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -36,7 +36,7 @@
           "hash": "qvT+nm7XT6YX2MRmHJ5dfQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -45,10 +45,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Laga.GeneticAlgorithm.GenrPopulation.html",
-          "hash": "swlwOFltXxb3Bkd+xPon0A=="
+          "hash": "Bh13mQLAPU5Emt9p+sbvqA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -57,10 +57,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Laga.GeneticAlgorithm.LagaTools.html",
-          "hash": "tUhOcTM3Fa24bGpaDyl+MA=="
+          "hash": "NoRSJt5+j6Fxf8+nwqiBCQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -72,7 +72,7 @@
           "hash": "2Tv1vL+yLwBkU/peTL3mKg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -84,7 +84,7 @@
           "hash": "/5rKyZ9A6T/isjz7l7GfOQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -96,7 +96,7 @@
           "hash": "/Xqt41K4xrvJomF9uUgtQA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -108,7 +108,7 @@
           "hash": "QWZougRscofdxMPSKfvKFA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -120,7 +120,7 @@
           "hash": "1V6z4yDTey0OGmI3IW4q3g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -132,31 +132,7 @@
           "hash": "h+t8+7dQaMFquwAeelFiLQ=="
         }
       },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Laga.Geometry.Vector.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Laga.Geometry.Vector.html",
-          "hash": "gmihWO/j+xcT9N9lZr/fDQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Laga.Geometry.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Laga.Geometry.html",
-          "hash": "tFJl0WA1krt+MnCjueDk4Q=="
-        }
-      },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -168,7 +144,7 @@
           "hash": "VQGMaxWAEryTKxdPWcpFnw=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -177,10 +153,10 @@
       "output": {
         ".html": {
           "relative_path": "api/Laga.Graphics.Notebook.html",
-          "hash": "kd0QVhTp61zMShYctspMmw=="
+          "hash": "3CjjQEjvFkKBx9hfbl0sLg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -192,7 +168,7 @@
           "hash": "LvIyazDsl5Sxkz3Ji/3M6g=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -204,7 +180,7 @@
           "hash": "pNPPQeE8P1EqFTl6t9pLPA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -216,7 +192,7 @@
           "hash": "dp/abk+9WLV+DWHjevZfdQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -228,7 +204,7 @@
           "hash": "unZ5Oo025AvY37qD+UMXfg=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -240,7 +216,7 @@
           "hash": "dQj8hewY3ReZBUt6x+D0Ew=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -252,7 +228,43 @@
           "hash": "cqSlI2n5HNMuTE2U5s48MQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LagaUnity.Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LagaUnity.Line.html",
+          "hash": "Hz3LVYiWFgYFHhEasbRVAQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LagaUnity.Point.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LagaUnity.Point.html",
+          "hash": "ypgc8LywtbTFsuXwakcFqQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/LagaUnity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LagaUnity.html",
+          "hash": "sRQh4miUxlo2UM+mDusPog=="
+        }
+      },
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -264,7 +276,7 @@
           "hash": "a+qmluEK3GYRlhiUIthU8w=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -273,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "vyCKZd019uGfbPjLZ81fsw=="
+          "hash": "zAe4q7Xc6nc35Fbg57Qteg=="
         }
       },
       "is_incremental": false,
@@ -708,17 +720,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 22,
+          "skipped_file_count": 22
+        },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 14,
           "skipped_file_count": 14
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 21,
-          "skipped_file_count": 15
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
