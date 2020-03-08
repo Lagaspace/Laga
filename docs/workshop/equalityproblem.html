@@ -69,13 +69,14 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="simple-math-equality-problem">Simple Math equality problem</h1>
 
-<h4 id="definition">Definition</h4>
+<h2 id="definition">Definition</h2>
 <p>We have the following equation: A2 + B3 + C4 = 60. The objective consist in to find the integers values for A, B and C to balance the equation. Which values we can set in A, B and C to get 60?</p>
-<h4 id="model">Model</h4>
+<br>
+<h2 id="model">Model</h2>
 <p>In order to tackle any optimization problem, first we need to create a mathematical model to analyse and define the problem. The model, will help us to understand how far or close are we from the objective. Which is minimize the value function F(x) = A2 + B3 + C4. It's a very simple problem.</p>
 <br>
 <br>
-<h4 id="architecture">Architecture</h4>
+<h2 id="architecture">Architecture</h2>
 <p>In the following table we will breakdown the problem in steps. We are going to understand what kind of algorithms we need, and general comments.</p>
 <table>
 <thead>
@@ -135,7 +136,7 @@
 </table>
 <p>Now, we have all the necessary ingredients to build our GA and defined what we need from each of them.</p>
 <br>
-<h4 id="code">Code</h4>
+<h2 id="code">Code</h2>
 <p>Here we will define the main classes and methods to operate the GA.  The first chuck of code defines the population size, and the chromosome size and some variables to store the results and population. the second chunk initialize all the GA operators from Laga: GenrPopulation(), RankingSort(), NaturalSelection(), Crossover() and Mutation(). The third chunk is for save the selected chromosomes, the inheritance and the mutated inheritance.</p>
 <pre><code class="lang-C#">private static int popSize = 20; //population size...
 private static int chromeSize = 15; //chromosome size....
@@ -230,7 +231,7 @@ apply the selection, crossover, mutation and new population. At the end we have 
             Console.ReadLine();
 </code></pre>
 <br>
-<h4 id="results">Results</h4>
+<h2 id="results">Results</h2>
 <p>The GA was able to resolve the balance equation proposing different number combinations for the parameters A, B and C. In almost all tests, the GA also converged in short period of time.</p>
 <ul>
 <li>This experiment is based on the following paper: &quot;Genetic Algorithm for Solving Simple Mathematical Equality Problem&quot;, Denny Hermawanto, Indonesian Institute of Sciences (LIPI), INDONESIA.</li>

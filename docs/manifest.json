@@ -620,6 +620,39 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "images/spiral1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/spiral1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/spiral2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/spiral2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/spiral3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/spiral3.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
@@ -649,7 +682,7 @@
       "output": {
         ".html": {
           "relative_path": "workshop/Math2.html",
-          "hash": "3YwM1D1tbuUaFq3v4ijsnQ=="
+          "hash": "eUB22jv2llgtTTFkBkvEjA=="
         }
       },
       "is_incremental": true,
@@ -669,11 +702,23 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "workshop/Spirals.md",
+      "output": {
+        ".html": {
+          "relative_path": "workshop/Spirals.html",
+          "hash": "qprJwi5lqoX3pwqRAXdiUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "workshop/equalityproblem.md",
       "output": {
         ".html": {
           "relative_path": "workshop/equalityproblem.html",
-          "hash": "GvYFYMQ4kv7ql20OQTMGzw=="
+          "hash": "mUHAFZhilQitF/Chdp4p7g=="
         }
       },
       "is_incremental": true,
@@ -697,7 +742,7 @@
       "output": {
         ".html": {
           "relative_path": "workshop/toc.html",
-          "hash": "yjr4VQPSTd4ERlCmViGSXA=="
+          "hash": "HZX5bDowuQnf7CY9AhvTIQ=="
         }
       },
       "is_incremental": false,
@@ -713,6 +758,13 @@
         "skipped_file_count": 0
       },
       "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -720,24 +772,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 15,
+          "skipped_file_count": 14
+        },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 22,
           "skipped_file_count": 22
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": true,
-          "incrementalPhase": "build",
-          "total_file_count": 14,
-          "skipped_file_count": 14
-        },
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
         }
       }
     },
