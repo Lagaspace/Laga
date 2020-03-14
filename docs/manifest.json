@@ -257,11 +257,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/LagaUnity.Polygon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/LagaUnity.Polygon.html",
+          "hash": "LHx9qM/sJJmxQ84mWxVFeA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/LagaUnity.yml",
       "output": {
         ".html": {
           "relative_path": "api/LagaUnity.html",
-          "hash": "sRQh4miUxlo2UM+mDusPog=="
+          "hash": "njK76EsRd6mJb2drcuGXVQ=="
         }
       },
       "is_incremental": true,
@@ -285,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "zAe4q7Xc6nc35Fbg57Qteg=="
+          "hash": "clZpcIXV+NWJopbCXEBTgg=="
         }
       },
       "is_incremental": false,
@@ -621,6 +633,39 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "images/randWalker1.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/randWalker1.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/randWalker2.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/randWalker2.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/randWalker3.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/randWalker3.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "images/spiral1.jpg",
       "output": {
         "resource": {
@@ -709,7 +754,7 @@
           "hash": "qprJwi5lqoX3pwqRAXdiUQ=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
@@ -737,12 +782,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "workshop/randWalker.md",
+      "output": {
+        ".html": {
+          "relative_path": "workshop/randWalker.html",
+          "hash": "0L+PO9t9b+P6K21fL7JXxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "workshop/toc.yml",
       "output": {
         ".html": {
           "relative_path": "workshop/toc.html",
-          "hash": "HZX5bDowuQnf7CY9AhvTIQ=="
+          "hash": "v6fdbtMcqrE9iIQxxFr6Pw=="
         }
       },
       "is_incremental": false,
@@ -758,13 +815,6 @@
         "skipped_file_count": 0
       },
       "processors": {
-        "ResourceDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
@@ -772,17 +822,24 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
         "ConceptualDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 15,
-          "skipped_file_count": 14
+          "total_file_count": 16,
+          "skipped_file_count": 15
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 22,
-          "skipped_file_count": 22
+          "total_file_count": 23,
+          "skipped_file_count": 23
         }
       }
     },
